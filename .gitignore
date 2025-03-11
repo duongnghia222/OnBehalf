@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+onbehalf/submodules/demo/chat_with_gpt/generated_images
+onbehalf/submodules/demo/chat_with_gpt/secrets
 # C extensions
 *.so
 
